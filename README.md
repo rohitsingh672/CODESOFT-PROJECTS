@@ -1,5 +1,4 @@
-<b>
-CODESOFT
+# CODESOFT
 Projects
 🔹 Task 1 – To-Do List Application
 
@@ -32,4 +31,3 @@ Improved my understanding of randomization and event-driven programming
 Python
 
 Tkinter (GUI)
-</b>
